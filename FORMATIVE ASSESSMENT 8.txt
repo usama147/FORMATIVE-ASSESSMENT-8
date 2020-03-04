@@ -1,0 +1,59 @@
+Different Agile Methodologies.
+
+1. Scrum.
+2. eXtreme Programming.
+3. Feature driven Development (FDD).
+4. Dynamic Systems Development Method (DSDM).
+5. Adaptive Software Development (ASD).
+6. Crystal and lean Software Development.
+
+Key features of:
+
+1. Scrum:
+ -Customizable Scrum boards
+ -Powerful progress reports
+ -Backlog management
+ -User stories mapping
+ -Bug and issues tracker
+ -Time tracking
+ -Customizable dashboard
+
+2. eXtreme programming:
+ -Communication , everyone wroks together at every stage of the project.
+ -Simplicity , simple code brings more value to a product.
+ -Feedback , developers often get feedback with regards to newly desired requirements.
+
+3. Feature driven Development (FDD):
+ -Plan by feature , development of features are now planned.
+ -Develop an overall Model.
+ -Design be feature , chief programmer chooses features and domain classes.
+
+4. Dynamic Systems Development Method (DSDM):
+ -Focus on the business need.
+ -Delivers on time.
+ -Never compromise quality.
+
+5. Adaptive Software Development (ASD):
+ -Focuses on end users, which could lead to better products.
+ -Allows for on time or even earlydelivery.
+ -Encourages for better transparency between clients and developers.
+
+6. Crystal and lean Software Development:
+ -Early frequent delivery of working software.
+ -The removal of bureaucracy or distractions.
+ -High user involvement, adaptability.
+
+     Key people in:
+
+1. Scrum:
+ -Product owner.
+ -Scrum master.
+ -Development Team.
+
+2. eXtreme Programming.
+ -Manager.
+ -Tester.
+ -Coach.
+ -Programmer.
+ -Customer.
+ -Tracker.
